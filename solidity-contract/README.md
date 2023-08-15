@@ -33,7 +33,7 @@ npx hardhat run scripts/deploy.ts --network localhost
 ## Deploy contracts to Axon network
 
 ```
-npx hardhat run --network axon scripts/deploy.ts
+npx hardhat run scripts/deploy.ts --network axon
 ```
 
 # Reference
