@@ -7,11 +7,8 @@ yarn
 # Run
 
 ```
-ts-node src/index.ts
-```
+$ ts-node src/index.ts
 
-Ouptput.
-``` 
 before calling the contract:  1000000000000000n
 after calling the contract:  0n
 unlock time:  1692074078n
