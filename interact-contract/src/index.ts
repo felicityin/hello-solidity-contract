@@ -5,7 +5,7 @@ import lockContract from './Lock.json';
 
 const AXON_INTERNAL_ALPHA_NET = 'https://rpc-alphanet-axon.ckbapp.dev';
 
-// Axon Genesis account to the local / test network.
+// Configrued Axon genesis account to the local / test network.
 const AXON_PRIVATE_KEY = "0x37aa0f893d05914a4def0460c0a984d3611546cfb26924d7a7ca6e0db9950a2d";
 
 // Address of the deployed contract
