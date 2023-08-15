@@ -1,3 +1,9 @@
+# Install dependencies
+
+```
+yarn
+```
+
 # Compile
 
 ```
