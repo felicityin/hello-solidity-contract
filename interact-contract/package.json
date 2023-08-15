@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "format": "prettier -wu src/*"
+  },
   "dependencies": {
     "ethers": "^6.7.0",
     "typescript": "^5.1.6"
